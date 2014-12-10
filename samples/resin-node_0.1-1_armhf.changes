@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Wed, 10 Dec 2014 10:11:54 +0000
+Source: resin-node
+Binary: resin-node
+Architecture: all
+Version: 0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <pi@53f55e44909f>
+Changed-By: unknown <pi@53f55e44909f>
+Description: 
+ resin-node - <insert up to 60 chars description>
+Changes: 
+ resin-node (0.1-1) unstable; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1: 
+ 60085d42e204785cc53111d1d98255d2aa6263c0 4903856 resin-node_0.1-1_all.deb
+Checksums-Sha256: 
+ d69a1f5014b5b2b7336426ab40dcbf4a85b79c5f4f7593892531c32e99b786a7 4903856 resin-node_0.1-1_all.deb
+Files: 
+ ba322aeda7ce10cdecafe2ff4d0687df 4903856 unknown extra resin-node_0.1-1_all.deb
